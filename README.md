@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi 👋, I'm Dawid Majka
+
+### Backend Engineer
+
+- 🔭 I’m currently working on E-commerce platform
+- 🌱 I’m currently learning Rust
+
 
 <!--
 **dawid-majka/dawid-majka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
